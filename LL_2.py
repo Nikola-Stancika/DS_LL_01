@@ -21,6 +21,10 @@ class LinkedList:
         self.length += 1
         return True
 
+
+
+
+
     # WRITE HAS_LOOP METHOD HERE #
     #                            #
     #                            #
